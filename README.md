@@ -20,7 +20,6 @@ It combines cybersecurity, software testing, and machine learning to automate vu
 
 - **Python**
 - **Vulners API / NVD Feed**
-- **spaCy / HuggingFace (for NLP processing)**
 - **requests**, **dotenv**
 - (Optional) React/Streamlit for dashboard
 
