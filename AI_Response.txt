@@ -1,0 +1,36 @@
+**Weakpoints:**
+
+* DirectoryTraversal
+* XSS
+* CommandInjection
+* SQLInjection
+* PathTraversal
+* FileOverwrite
+* BufferOverflow
+* ReplayAttack
+* PrivilegeEscalation
+* RemoteCodeExecution
+* InformationDisclosure
+* UnauthorizedDataLoss
+* UnauthorizedDataModification
+* ManInTheMiddle
+* UntrustedSearchPath
+* ImproperAccessControl
+* ImproperNeutralizationOfSpecialElements
+
+
+**Algorithms:**
+
+* SQLi
+* DirectoryTraversal
+* CommandInjection
+* XSS
+* ArbitraryFileWrite
+* BufferOverflowExploit
+* ReplayAttack
+* PrivilegeEscalation
+* RemoteCodeExecution
+* ManInTheMiddleAttack
+
+
+Note:  Some vulnerabilities (like "Improper Access Control") don't directly map to a single, well-defined algorithm like SQL injection.  Exploitation would depend on the specifics of the implementation and the system's architecture.
