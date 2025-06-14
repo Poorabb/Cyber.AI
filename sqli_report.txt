@@ -1,0 +1,24 @@
+
+🔍 Scanning Form #1 (GET): https://sqltest.net/
+🚨 Form flagged vulnerable during aggressive scan with payload: ' OR '1'='1
+----------------------------------------------------------------------
+
+🔍 Scanning Form #2 (GET): https://sqltest.net/
+🚨 Form flagged vulnerable during aggressive scan with payload: ' OR '1'='1
+----------------------------------------------------------------------
+
+🔍 Scanning Form #3 (GET): https://sqltest.net/
+🚨 Form flagged vulnerable during aggressive scan with payload: ' OR '1'='1
+----------------------------------------------------------------------
+
+🔍 Scanning Form #4 (POST): https://sqltest.net/wp-login.php?redirect_to=https://sqltest.net/
+✅ No SQLi indicators found in this form.
+----------------------------------------------------------------------
+
+🔍 Scanning Form #5 (POST): https://sqltest.net/wp-login.php?action=register
+✅ No SQLi indicators found in this form.
+----------------------------------------------------------------------
+
+🔍 Scanning Form #6 (POST): https://sqltest.net/wp-login.php?action=lostpassword
+✅ No SQLi indicators found in this form.
+----------------------------------------------------------------------
